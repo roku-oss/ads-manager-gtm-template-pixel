@@ -1,0 +1,5 @@
+homepage: "https://advertising.roku.com/en-gb/solutions/advertise/ads-manager"
+documentation: "https://help.ads.roku.com/en/articles/11321752"
+versions:
+  - sha: 8cd9b5c990cd265133760658c8ca6a4623d9d7ee
+    changeNotes: Initial release.
