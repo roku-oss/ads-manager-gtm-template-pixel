@@ -1,5 +1,7 @@
 homepage: "https://advertising.roku.com/en-gb/solutions/advertise/ads-manager"
 documentation: "https://help.ads.roku.com/en/articles/11321752"
 versions:
+  - sha: fa96058542444b190ad43cf8b309481257ba64b2
+    changeNotes: Patch template values.
   - sha: 37c0c7cd47e739799736b0f20a7fdc84ea512e46
     changeNotes: Initial release.
