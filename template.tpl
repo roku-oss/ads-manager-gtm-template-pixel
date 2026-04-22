@@ -67,7 +67,7 @@ ___TEMPLATE_PARAMETERS___
             "displayValue": "Page views"
           },
           {
-            "value": "ACHEIVE_LEVEL",
+            "value": "ACHIEVE_LEVEL",
             "displayValue": "Achieve level"
           },
           {
@@ -107,7 +107,7 @@ ___TEMPLATE_PARAMETERS___
             "displayValue": "Downloads"
           },
           {
-            "value": "FIND_LOCATIONS",
+            "value": "FIND_LOCATION",
             "displayValue": "Find location"
           },
           {
